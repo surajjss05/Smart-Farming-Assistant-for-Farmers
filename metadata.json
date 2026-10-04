@@ -1,0 +1,7 @@
+{
+  "name": "KisanAI - Smart Farming Assistant",
+  "description": "AI-powered Smart Farming Assistant helping farmers with crop recommendation, yield forecasting, pest & disease detection, market prices, and multilingual advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
